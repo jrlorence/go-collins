@@ -1,4 +1,4 @@
-module github.com/jrlorence/go-collins.v0
+module github.com/jrlorence/go-collins
 
 require (
 	github.com/google/go-querystring v1.0.0
